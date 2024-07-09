@@ -1,7 +1,9 @@
 # dsbuilder
 Libraries required
-`colorama`
-`pystyle`
+```
+colorama
+pystyle
+```
 NSTRUCTIONS, FOLLOW CLEARLY ⚡
 ```$ git clone https://github.com/pl4sma-arch/dsbuilder.git```
 ```$ mv dsbuilder ~/.config```
