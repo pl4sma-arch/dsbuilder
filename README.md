@@ -4,7 +4,7 @@ Libraries required
 colorama
 pystyle
 ```
-NSTRUCTIONS, FOLLOW CLEARLY ⚡
+THESE ARE THE INSTRUCTIONS, FOLLOW CLEARLY ⚡
 ```
 $ git clone https://github.com/pl4sma-arch/dsbuilder.git
 $ mv dsbuilder ~/.config
