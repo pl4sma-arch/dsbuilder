@@ -5,9 +5,11 @@ colorama
 pystyle
 ```
 NSTRUCTIONS, FOLLOW CLEARLY ⚡
-```$ git clone https://github.com/pl4sma-arch/dsbuilder.git```
-```$ mv dsbuilder ~/.config```
-```$ touch /usr/bin/dsbuilder```
+```
+$ git clone https://github.com/pl4sma-arch/dsbuilder.git
+$ mv dsbuilder ~/.config
+$ touch /usr/bin/dsbuilder
+```
 Now, in the bin file, write in it
 ```
 #!/bin/bash
